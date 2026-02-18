@@ -1,0 +1,10 @@
+# Build outputs
+bin/
+obj/
+dist/
+node_modules/
+*.log
+.env
+.env.local
+uploads/
+*.zip
